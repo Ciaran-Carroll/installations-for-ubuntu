@@ -46,14 +46,14 @@ Once you agree to the license, you will be prompted to choose the location of th
 
 At this point, the installation will proceed. Note that the installation process takes some time.
 
-## Step 6 — Select Options
+## Step 6: Select Options
 
 Once installation is complete, you’ll receive the following output:
 
 
 It is recommended that you type yes to use the conda command.
 
-## Step 7 — Activate Installation
+## Step 7: Activate Installation
 
 You can now activate the installation with the following command:	
 
@@ -63,7 +63,7 @@ source ~/.bashrc
 
 ```
 
-## Step 8 — Test Installation
+## Step 8: Test Installation
 
 Use the conda command to test the installation and activation:
 
@@ -75,7 +75,7 @@ conda list
 
 You’ll receive output of all the packages you have available through the Anaconda installation.
 
-## Step 9 — Set Up Anaconda Environments
+## Step 9: Set Up Anaconda Environments
 
 You can create Anaconda environments with the conda create command. For example, a Python 3 environment named my_env can be created with the following command:
 
